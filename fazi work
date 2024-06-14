@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Shop Name</title>
+    <style>
+        .footer {
+            margin-top: 50px;
+            padding: 40px 20px;
+            background-color: #5e758b;
+            color: rgb(185, 231, 112);
+            text-align: center;
+        }
+    </style>   
+</head>
+<div class="footer">
+        <h2>Stay Connected</h2>
+        <p>Follow us on social media and stay updated with our latest collections and offers.</p>
+        <ul>
+            <li><a href="https://www.facebook.com/yourshop" target="_blank">Facebook</a></li>
+            <li><a href="https://www.instagram.com/yourshop" target="_blank">Instagram</a></li>
+            <li><a href="https://www.twitter.com/yourshop" target="_blank">Twitter</a></li>
+            <li><a href="https://www.youtube.com/yourshop" target="_blank">YouTube</a></li>
+        </ul>
+        <p>&copy; 2024 [Your Shop Name]. All rights reserved.</p>
+        <p><a href="mailto:info@yourshop.com">Contact Us</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-service">Terms of Service</a></p>
+    </div>
+
+</body>
+</html>
